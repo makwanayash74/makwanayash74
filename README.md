@@ -2,7 +2,7 @@
 <h3 align="center">An AR developer from India</h3>
 
 <br>
-<!<p align="center"> <img src="https://komarev.com/ghpvc/?username=makwanayash74&label=Profile%20views&color=0e75b6&style=flat" alt="makwanayash74" /> </p>
+<!-- <!<p align="center"> <img src="https://komarev.com/ghpvc/?username=makwanayash74&label=Profile%20views&color=0e75b6&style=flat" alt="makwanayash74" /> </p> -->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makwanayash74" alt="makwanayash74" /></a> </p> -->
 
