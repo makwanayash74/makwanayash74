@@ -27,7 +27,7 @@
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makwanayash74&show_icons=true&locale=en" alt="makwanayash74" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makwanayash74&" alt="makwanayash74" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makwanayash74&" alt="makwanayash74" /></p>-->
 
 <h3>Visitors Count</h3>
 <p>
