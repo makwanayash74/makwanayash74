@@ -29,7 +29,7 @@
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makwanayash74&" alt="makwanayash74" /></p>-->
 
-<h3>Visitors Count</h3>
+<!-- <h3>Visitors Count</h3>
 <p>
 <img align="center" src = "https://profile-counter.glitch.me/makwanayash74/count.svg" alt ="Loading">
-</p><br>
+</p><br> -->
